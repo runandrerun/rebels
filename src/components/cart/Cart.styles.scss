@@ -1,0 +1,30 @@
+.cart {
+  display: block;
+  align-items: flex-end;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+
+  &--order-success {
+    display: inline;
+    margin-right: 4rem;
+  }
+
+  &--copy {
+    display: inline;
+    margin-left: 1rem;
+  }
+  &--icon {
+    display: inline;
+    width: 2.5rem;
+    height: auto;
+    &:hover {
+      animation: wiggle 1s ease;
+    }
+  }
+
+  &--sub-ready {
+    display: inline;
+    margin-right: 2rem;
+  }
+}
