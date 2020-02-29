@@ -76,7 +76,7 @@ class ShoppingList extends Component {
     if (!loading && !fetched) { return <div/> }
 
     return (
-      <div className="shopping-list">
+      <div id="section-shopping" className="shopping-list">
         <div className="text-center margin-bottom-m">
           <h2 className="heading-secondary">
             Pick Your Litter

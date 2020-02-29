@@ -11,6 +11,14 @@ const Hero = () => {
           alt="Misfits Market logo"
         />
       </div>
+      <div className="hero__arrow-container">
+        <a href="#section-shopping">
+          <img
+            src={require('../../_assets/img/arrows_down.svg')}
+            alt="Down arrow"
+          />
+        </a>
+      </div>
     </header>
   );
 };
