@@ -1,0 +1,16 @@
+@import '../../_assets/css/main.scss';
+
+.loader-container {
+  text-align: center;
+  margin: 0 auto;
+
+  .loader {
+    text-align: center;
+    border: .8rem solid $brand-color;
+    border-top: .8rem solid $brand-color-dark;
+    border-radius: 50%;
+    width: 4rem;
+    height: 4rem;
+    animation: spin 1.5s linear infinite;
+  }
+}

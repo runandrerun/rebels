@@ -1,0 +1,60 @@
+.btn-text {
+    color: $brand-color-dark;
+    background-color: $gray-splash;
+    display: inline-block;
+    text-decoration: none;
+    border: none;
+    border-bottom: .1rem solid $brand-color-dark;
+    padding: 1rem;
+    font-size: $default-font-size;
+    transition: all 0.4s ease;
+
+  &:hover {
+    transform: translateY(-.3rem);
+    box-shadow: 0 1rem 2rem rgba($color-black, 0.2);
+    color: $color-white;
+    background-color: $brand-color-md-dark;
+    border-bottom: .1rem solid $brand-color-md-dark;
+  }
+
+  &:active {
+    transform: translateY(-.1rem);
+    box-shadow: 0 .5rem 1rem rgba($color-black, 0.2);
+  }
+
+  &:focus {
+    outline: none;
+  }
+
+  &:disabled {
+    background-color: $gray-splash;
+    color: $body-primary-color;
+    border: none;
+  }
+}
+
+.btn-order-now {
+  color: $color-white;
+  border: .1rem solid $brand-color-dark;
+  font-weight: 500;
+  border-radius: 10rem;
+  padding: 1rem;
+  font-size: $default-font-size;
+  background-color: $brand-color-dark;
+  transition: all 0.4s ease;
+
+  &:hover {
+    transform: translateY(-.3rem);
+    box-shadow: 0 1rem 2rem rgba($color-black, 0.2);
+  }
+
+  &:active {
+    transform: translateY(-.1rem);
+    box-shadow: 0 .5rem 1rem rgba($color-black, 0.2);
+  }
+
+  &:focus {
+    outline: none;
+  }
+
+}
