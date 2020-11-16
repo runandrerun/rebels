@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a1f7e9ba74ebbfe66bfd5f6e33adb42e",
+    "revision": "95d6a8e0f2d9fbdb4e9b782721f0d8a5",
     "url": "/rebels/index.html"
   },
   {
-    "revision": "7985d1bce753c96361e9",
-    "url": "/rebels/static/css/main.202066bb.chunk.css"
+    "revision": "ce28175d61b3bb40f055",
+    "url": "/rebels/static/css/main.9d132118.chunk.css"
   },
   {
-    "revision": "028f912f46cdb934be3e",
-    "url": "/rebels/static/js/2.a60ffedb.chunk.js"
+    "revision": "1257a30400f3d836e551",
+    "url": "/rebels/static/js/2.b817836c.chunk.js"
   },
   {
     "revision": "f231859d6585c4cd5f80c344783ed269",
-    "url": "/rebels/static/js/2.a60ffedb.chunk.js.LICENSE.txt"
+    "url": "/rebels/static/js/2.b817836c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7985d1bce753c96361e9",
-    "url": "/rebels/static/js/main.95490182.chunk.js"
+    "revision": "ce28175d61b3bb40f055",
+    "url": "/rebels/static/js/main.88942a26.chunk.js"
   },
   {
     "revision": "10545a9e46acb9f2944c",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "44cf5fd3c02cea7577fe3966e319a662",
     "url": "/rebels/static/media/apples.44cf5fd3.jpg"
+  },
+  {
+    "revision": "26d5000fa6f8ffeb4af0b57e4c2bef9d",
+    "url": "/rebels/static/media/arrows_down.26d5000f.svg"
   },
   {
     "revision": "50e1186a385c19568945ab3bc8b2c5ab",
