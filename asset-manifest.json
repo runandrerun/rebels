@@ -1,32 +1,27 @@
 {
   "files": {
-    "main.css": "/rebels/static/css/main.9d132118.chunk.css",
-    "main.js": "/rebels/static/js/main.88942a26.chunk.js",
-    "main.js.map": "/rebels/static/js/main.88942a26.chunk.js.map",
+    "main.css": "/rebels/static/css/main.ad73516a.chunk.css",
+    "main.js": "/rebels/static/js/main.7c277e3c.chunk.js",
+    "main.js.map": "/rebels/static/js/main.7c277e3c.chunk.js.map",
     "runtime-main.js": "/rebels/static/js/runtime-main.602c3fae.js",
     "runtime-main.js.map": "/rebels/static/js/runtime-main.602c3fae.js.map",
-    "static/js/2.b817836c.chunk.js": "/rebels/static/js/2.b817836c.chunk.js",
-    "static/js/2.b817836c.chunk.js.map": "/rebels/static/js/2.b817836c.chunk.js.map",
+    "static/js/2.0b0138aa.chunk.js": "/rebels/static/js/2.0b0138aa.chunk.js",
+    "static/js/2.0b0138aa.chunk.js.map": "/rebels/static/js/2.0b0138aa.chunk.js.map",
     "index.html": "/rebels/index.html",
-    "precache-manifest.10c867710d635e9d4d9c53f4d3c9d133.js": "/rebels/precache-manifest.10c867710d635e9d4d9c53f4d3c9d133.js",
+    "precache-manifest.d445bce650516f1fab28b0fb7d1e8b91.js": "/rebels/precache-manifest.d445bce650516f1fab28b0fb7d1e8b91.js",
     "service-worker.js": "/rebels/service-worker.js",
-    "static/css/main.9d132118.chunk.css.map": "/rebels/static/css/main.9d132118.chunk.css.map",
-    "static/js/2.b817836c.chunk.js.LICENSE.txt": "/rebels/static/js/2.b817836c.chunk.js.LICENSE.txt",
+    "static/css/main.ad73516a.chunk.css.map": "/rebels/static/css/main.ad73516a.chunk.css.map",
+    "static/js/2.0b0138aa.chunk.js.LICENSE.txt": "/rebels/static/js/2.0b0138aa.chunk.js.LICENSE.txt",
     "static/media/apples.jpg": "/rebels/static/media/apples.44cf5fd3.jpg",
     "static/media/arrows_down.svg": "/rebels/static/media/arrows_down.26d5000f.svg",
-    "static/media/bread.jpg": "/rebels/static/media/bread.50e1186a.jpg",
-    "static/media/eggs.jpg": "/rebels/static/media/eggs.a62fc03a.jpg",
-    "static/media/milk.jpg": "/rebels/static/media/milk.c71e5005.jpg",
     "static/media/misfits-market-w-header-logo.svg": "/rebels/static/media/misfits-market-w-header-logo.63118c28.svg",
     "static/media/shopping-cart.svg": "/rebels/static/media/shopping-cart.8948d130.svg",
-    "static/media/vegetables-1.jpg": "/rebels/static/media/vegetables-1.81bf1dc0.jpg",
-    "static/media/vegetables-2.jpg": "/rebels/static/media/vegetables-2.2fcf1f4f.jpg",
-    "static/media/vegetables-3.jpg": "/rebels/static/media/vegetables-3.c033b15b.jpg"
+    "static/media/Hero.styles.scss": "/rebels/static/media/vegetables-3.c033b15b.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.602c3fae.js",
-    "static/js/2.b817836c.chunk.js",
-    "static/css/main.9d132118.chunk.css",
-    "static/js/main.88942a26.chunk.js"
+    "static/js/2.0b0138aa.chunk.js",
+    "static/css/main.ad73516a.chunk.css",
+    "static/js/main.7c277e3c.chunk.js"
   ]
 }
