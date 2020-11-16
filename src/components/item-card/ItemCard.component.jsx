@@ -6,11 +6,16 @@ const ItemCard = ({ id, product, price, handleCartUpdate, cartCheck }) => {
   return (
     <div id={id} className="item-card">
       <div className="mg-container">
-        <img
-          className="img-container__img"
-          src={require(`../../_assets/img/${product.toLowerCase()}.jpg`)}
-          alt={product}
-        />
+      <img
+        className="img-container__img"
+        src={require(`../../_assets/img/apples.jpg`)}
+        alt={product}
+      />
+      {/*<img
+         className="img-container__img"
+         src={require(`../../_assets/img/${product.toLowerCase()}.jpg`)}
+         alt={product}
+       />*/}
       </div>
       <div className="item-card-container">
         <div className="text-center margin-bottom-s">
